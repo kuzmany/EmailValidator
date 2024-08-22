@@ -1,5 +1,5 @@
 {
-  "name":        "egulias/email-validator",
+  "name":        "kuzmany/email-validator",
   "description": "A library for validating emails against several RFCs",
   "homepage":    "https://github.com/egulias/EmailValidator",
   "keywords":    ["email", "validation", "validator", "emailvalidation", "emailvalidator"],
